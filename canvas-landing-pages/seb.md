@@ -1,1 +1,1 @@
-# ![[tktk Module Name]](../assets/tktk-hero.png)
+# ![CS - Introduction to Computer Science](../assets/hero.png)

@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - Setup](./assets/hero.png)
+# ![Computer Science - Introduction to Computer Science - Setup](./assets/hero.png)
 
 ## Setup
 
