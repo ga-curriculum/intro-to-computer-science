@@ -2,7 +2,7 @@
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module students will discover the definition of computer science, and explore the ways that computer science can make you a better programmer. This module will also give an overview on how computer science appears in software engineering job interviews
 
 ## Prerequisites
 
@@ -14,18 +14,16 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                               | -- | -- | Setting up the development environment  |
-| [Concepts](./concepts/README.md)                         | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk skills covered                     |
+| [What is Computer Science?](./what-is-comp-sci/README.md) | -- | -- | Students will learn the definition of computer science                     |
+| [What's in it for Me?](./whats-in-it-for-me/README.md) | -- | -- | How understanding computer science can help you as a software engineer                     |
+| [Technical Interviews](./technical-interviews/README.md) | -- | -- | How computer science appears in technical interviews                 |
 | **Total content**                                        | -- | -- |                                         |
 
 ## Level Up content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [tktk Microlesson Name](./tktk-microlesson-04/README.md) | -- | -- | tktk skills covered                     |
+| [More Resources](./more-resources/README.md) | -- | -- | tktk skills covered                     |
 | **Total Level Up content**                               | -- | -- |                                         |
 
 ## References
