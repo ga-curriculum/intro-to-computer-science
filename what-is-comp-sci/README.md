@@ -2,7 +2,6 @@
 
 **Learning objective:** By the end of this lesson, students will be able to define what computer science is.
 
-
 ## What is computer science, anyway?
 
 TKTK VIDEO HERE
@@ -29,7 +28,6 @@ Instead, think of computer science as the study of the nature of computation; in
 
 ![Magnifying glass examining puzzle pieces](./assets/originals/2-Study-of-Problems.png)
 
-
 ### Layers of abstraction
 
 Computer science is, by definition, an abstract field of study.
@@ -50,7 +48,6 @@ In computer science, we’re cutting through those layers of abstraction down to
 
 ![two laptops side by side, one with binary and one that displays the text "Hello World!"](./assets/originals/3-What-You-See-On-Your-Computer.png)
 
-
 ### Finding yourself in CS
 
 At this point, you might be wondering, “Where does computer science fit in with what I know about web development?”
@@ -59,7 +56,4 @@ We’ll be straight with you: Computer science deals mostly with parts of the te
 
 But computer science comes into play much lower in the stack, when you’re thinking about interactions between a database, a server, and your operating system.
 
-[tktk hunter -- there is a weird white rectangle on this one, so you may want to redo it if you have time]
-
-![Diagram of how computer science relates to other coding fundamentals](./assets/originals/4-CS-Diagram.png)
-
+![Diagram of how computer science relates to other coding fundamentals](./assets/cs-diagram.png)

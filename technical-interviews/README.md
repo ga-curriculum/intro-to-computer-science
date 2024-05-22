@@ -10,7 +10,6 @@ Here are the sorts of CS questions you might encounter in a job interview. (Spoi
 
 ![Speech bubbles with different computer science questions you might find in technical interviews](./assets/originals/5-Speech-Bubbles.png)
 
-
 ### Why CS?
 
 The fundamentals of computer science are a popular interview topic for a couple of reasons:
@@ -32,7 +31,6 @@ TKTK VIDEO HERE
 
 *It's not always just about getting the right answer. Sometimes, if you know the right answer off the top of your head, that's actually a negative, because you might skip walking through the thought process and how to solve it, which is really what they're looking for.*
 
-
 **----transcript end----**
 
 ### No code allowed
@@ -44,7 +42,6 @@ A lot of algorithms and data structures can easily be explained visually without
 The best part? Whiteboarding is easy to practice and learn!
 
 ![hands writing on a whiteboard](./assets/originals/whiteboard.jpg)
-
 
 ### Looking ahead
 

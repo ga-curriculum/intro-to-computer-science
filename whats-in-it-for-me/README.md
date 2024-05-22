@@ -11,7 +11,6 @@ It’s a legitimate question! From our perspective, there are two vitally import
 - It makes you a more well-rounded software engineer.
 - It comes up all the time in technical job interviews.
 
-
 Let’s see what our SEI instructors have to say.
 
 TKTK VIDEO HERE
