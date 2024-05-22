@@ -1,4 +1,4 @@
-# ![Intro to Computer Science - What is Computer Science](./assets/hero.png)
+# ![Intro to Computer Science - What is Computer Science?](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to define what computer science is.
 

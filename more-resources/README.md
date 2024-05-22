@@ -1,4 +1,4 @@
-# ![Intro to Computer Science] - More Resources](./assets/hero.png)
+# ![Intro to Computer Science - More Resources](./assets/hero.png)
 
 
 Want to learn more about the science of computers? Check out these blogs and video series:

@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Computer Science - Introduction to Computer Science](./assets/hero.png)
 
 ## About
 

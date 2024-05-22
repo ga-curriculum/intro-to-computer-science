@@ -1,4 +1,4 @@
-# ![Intro to Computer Science] - What's in it for Me?](./assets/hero.png)
+# ![Intro to Computer Science - What's in it for Me?](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to explain how computer science is beneficial to them in their careers as software engineers. 
 

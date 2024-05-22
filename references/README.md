@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - References](./assets/hero.png)
+# ![Computer Science - Introduction to Computer Science - References](./assets/hero.png)
 
 ## Lesson references
 
