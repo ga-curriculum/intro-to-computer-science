@@ -14,7 +14,7 @@ In this module students will discover the definition of computer science, and ex
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [What is Computer Science](./what-is-comp-sci/README.md) | -- | -- | Students will learn the definition of computer science                     |
+| [What is Computer Science?](./what-is-comp-sci/README.md) | -- | -- | Students will learn the definition of computer science                     |
 | [What's in it for Me?](./whats-in-it-for-me/README.md) | -- | -- | How understanding computer science can help you as a software engineer                     |
 | [Technical Interviews](./technical-interviews/README.md) | -- | -- | How computer science appears in technical interviews                 |
 | **Total content**                                        | -- | -- |                                         |
