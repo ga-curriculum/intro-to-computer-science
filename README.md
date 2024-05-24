@@ -1,48 +1,41 @@
 # ![Computer Science - Introduction to Computer Science](./assets/hero.png)
 
-## About
+## Overview
 
-In this module students will discover the definition of computer science, and explore the ways that computer science can make you a better programmer. This module will also give an overview on how computer science appears in software engineering job interviews
+Welcome to the world of computer science (CS, for short) — those elusive, abstract concepts of how computers actually work. If you’ve come this far in your web development career and still don’t really know what it is, not to worry! Or, if you’re already a computer science expert, we salute you! No matter your background in CS, this series of modules will introduce you to fundamental concepts to make you a more well-rounded engineer. Plus, we’ll prepare you to ace the technical portions of software engineering interviews.
 
-## Prerequisites
+### Prerequisites
 
-- tktk
-- tktk
-- tktk
+- None
+
+### Learning Objectives
+
+By the end of this module, learners will be able to:
+
+- Define computer science.
+- Explain why understanding computer science can make you a better programmer.
+- Describe how computer science appears in software engineering job interviews.
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [What is Computer Science?](./what-is-comp-sci/README.md) | -- | -- | Students will learn the definition of computer science                     |
-| [What's in it for Me?](./whats-in-it-for-me/README.md) | -- | -- | How understanding computer science can help you as a software engineer                     |
-| [Technical Interviews](./technical-interviews/README.md) | -- | -- | How computer science appears in technical interviews                 |
-| **Total content**                                        | -- | -- |                                         |
+1. Lesson: [Intro to Computer Science](./lesson/README.md)
 
-## Level Up content
+### Time to Complete
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [More Resources](./more-resources/README.md) | -- | -- | tktk skills covered                     |
-| **Total Level Up content**                               | -- | -- |                                         |
+15 min total:
 
-## References
+- 15 min - Intro to Computer Science
 
-📖 [Reference Materials](./references/README.md)
+## Additional Resources
 
-## Deployed sites
+Want to learn more about the science of computers? Check out these blogs and video series:
 
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
+- Harvard University's [CS50 video series](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA).
+- Hacker Rank's [Algorithms](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL) and [Data Structures](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX) video series.
 
 ## Internal resources
 
 ✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
